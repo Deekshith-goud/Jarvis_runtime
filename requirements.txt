@@ -1,0 +1,18 @@
+# Core runtime dependencies
+requests
+numpy
+sounddevice
+SpeechRecognition
+vosk
+pyttsx3
+psutil
+pyperclip
+pyautogui
+websockets
+PySide6
+python-docx
+openpyxl
+fasttext-wheel==0.9.2 ; python_version < "3.13"
+
+# Test dependency
+pytest

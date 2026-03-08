@@ -1,0 +1,20 @@
+{
+  "voice": {
+    "name": "Nova",
+    "pitch": 1.0,
+    "speed": 1.0,
+    "tone": "balanced"
+  },
+  "aliases": {},
+  "macros": {},
+  "appearance": {
+    "particle_density": 60000,
+    "theme": "aurora"
+  },
+  "personality": {
+    "humor": 0.2,
+    "tone": "professional",
+    "verbosity": 0.5
+  },
+  "automation": []
+}

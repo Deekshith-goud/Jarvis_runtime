@@ -1,0 +1,22 @@
+{
+    "auto_start": false,
+    "daemon_mode": false,
+    "log_max_size_kb": 512,
+    "save_directory": "Desktop/Jarvis",
+    "blocked_sites": [
+        "youtube",
+        "instagram",
+        "facebook",
+        "twitter",
+        "reddit"
+    ],
+    "blocked_apps": [
+        "steam",
+        "epic",
+        "vlc",
+        "spotify"
+    ],
+    "app_aliases": {
+        "tlauncher": "C:\\Users\\Voriganti\\AppData\\Roaming\\.minecraft\\TLauncher.exe"
+    }
+}
