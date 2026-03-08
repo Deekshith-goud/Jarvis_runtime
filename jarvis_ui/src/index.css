@@ -1,0 +1,94 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy-900: #0a0f1d;
+  --color-navy-800: #0f172a;
+  --color-cyan-vivid: #00f0ff;
+  --color-electric-blue: #0066ff;
+  --color-violet-accent: #8b5cf6;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0a0f1d;
+  color: #ffffff;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  overflow: hidden;
+  /* Prevent scrolling, UI is absolute/app-like */
+}
+
+/* Custom scrollbar for panels */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(15, 23, 42, 0.5);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 240, 255, 0.3);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 240, 255, 0.6);
+}
+
+/* React Grid Layout specific overrides */
+.react-grid-item.react-grid-placeholder {
+  background: rgba(0, 240, 255, 0.1) !important;
+  border: 1px dashed rgba(0, 240, 255, 0.5);
+}
+
+.panel-container {
+  background: rgba(10, 15, 29, 0.45);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(0, 240, 255, 0.15);
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.6), inset 0 0 20px rgba(0, 240, 255, 0.05);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+}
+
+.panel-container:hover {
+  background: rgba(10, 15, 29, 0.55);
+  border-color: rgba(0, 240, 255, 0.35);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.7), inset 0 0 20px rgba(0, 240, 255, 0.1);
+}
+
+.panel-header {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid rgba(0, 240, 255, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(to right, rgba(0, 102, 255, 0.1), transparent);
+  cursor: grab;
+}
+
+.panel-header:active {
+  cursor: grabbing;
+}
+
+.panel-title {
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-cyan-vivid);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.panel-content {
+  flex: 1;
+  padding: 1rem;
+  overflow-y: auto;
+}
