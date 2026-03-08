@@ -1,0 +1,4 @@
+{"event": "task_created", "task_id": "task1", "intent": "open_youtube", "timestamp": "2026-03-05T15:53:43.657175+00:00", "dependencies": []}
+{"event": "agent_selected", "task_id": "task1", "intent": "open_youtube", "timestamp": "2026-03-05T15:53:43.658166+00:00", "agent": "BrowserAgent"}
+{"event": "task_started", "task_id": "task1", "intent": "open_youtube", "timestamp": "2026-03-05T15:53:43.658799+00:00", "agent": "BrowserAgent"}
+{"event": "task_completed", "task_id": "task1", "intent": "open_youtube", "timestamp": "2026-03-05T15:53:43.864933+00:00", "status": "complete", "result": {"handled": "open_youtube", "context": {}}}

@@ -1,0 +1,4 @@
+{"event": "task_created", "task_id": "task1", "intent": "open_youtube", "timestamp": "2026-03-05T15:56:44.100732+00:00", "dependencies": []}
+{"event": "agent_selected", "task_id": "task1", "intent": "open_youtube", "timestamp": "2026-03-05T15:56:44.101695+00:00", "agent": "BrowserAgent"}
+{"event": "task_started", "task_id": "task1", "intent": "open_youtube", "timestamp": "2026-03-05T15:56:44.102279+00:00", "agent": "BrowserAgent"}
+{"event": "task_failed", "task_id": "task1", "intent": "open_youtube", "timestamp": "2026-03-05T15:56:44.312438+00:00", "status": "failed", "error": "Object of type ShortTermMemory is not JSON serializable"}
