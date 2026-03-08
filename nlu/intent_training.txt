@@ -1,0 +1,247 @@
+__label__open open youtube
+__label__open launch chrome
+__label__open start notepad
+__label__open go to google
+__label__open open up chatgpt
+__label__open launch the browser
+__label__open start the calculator
+__label__open i need to open facebook
+__label__open can you launch steam
+__label__open open my mail
+__label__open go to github
+__label__open start cursor
+__label__open launch gemini
+__label__open open notebooklm
+__label__open go to twitter
+__label__open bring up netflix
+__label__open open google
+__label__open launch youtube
+__label__open start chat gpt
+__label__open i want to open a website
+__label__timer set a timer for 5 minutes
+__label__timer start a 10 minute countdown
+__label__timer put 15 minutes on the clock
+__label__timer i need a timer for 20 minutes
+__label__timer start a timer
+__label__timer set a 5 minute timer
+__label__timer can you set a timer for half an hour
+__label__timer time 10 minutes
+__label__timer begin a 2 minute timer
+__label__timer countdown 5 minutes
+__label__timer set up a timer for 1 hour
+__label__timer start a countdown for 3 minutes
+__label__timer create a timer for ten minutes
+__label__timer set a stopwatch for 5 mins
+__label__timer start a new timer
+__label__timer check timer
+__label__timer how much time is left
+__label__timer timer status
+__label__timer cancel timer
+__label__timer stop the timer
+__label__reminder remind me in 10 minutes
+__label__reminder set a reminder for 5 minutes from now
+__label__reminder remind me to check the oven in 20 minutes
+__label__reminder i need a reminder in half an hour
+__label__reminder remind me to call john in 15 minutes
+__label__reminder create a reminder for 5 mins
+__label__reminder set a reminder
+__label__reminder remind me later
+__label__reminder push a reminder for 10 minutes
+__label__reminder remind me to take out the trash in 5 minutes
+__label__reminder remind me to drink water in 30 minutes
+__label__reminder set up a reminder for email in 5 mins
+__label__reminder remind me about the meeting in 15 minutes
+__label__reminder tell me to stop in 10 minutes
+__label__reminder give me a reminder for break in 45 minutes
+__label__reminder remind me in one hour
+__label__reminder make a reminder for 20 minutes
+__label__reminder short reminder in 5 mins
+__label__reminder remind me to stretch in 15 mins
+__label__reminder drop a reminder for 30 minutes
+__label__explain explain quantum mechanics
+__label__explain what is string theory
+__label__explain how does a combustion engine work
+__label__explain tell me about black holes
+__label__explain can you explain the theory of relativity
+__label__explain how do airplanes fly
+__label__explain what are the laws of thermodynamics
+__label__explain describe the water cycle
+__label__explain what is the capital of france
+__label__explain explain how photosynthesis works
+__label__explain tell me about the roman empire
+__label__explain what is artificial intelligence
+__label__explain how does machine learning work
+__label__explain what are neural networks
+__label__explain explain the history of the internet
+__label__explain describe the human digestive system
+__label__explain what is dna
+__label__explain how do vaccines work
+__label__explain explain the stock market
+__label__explain what is cryptocurrency
+__label__generate write a python script
+__label__generate compose an email to my boss
+__label__generate draft a blog post about technology
+__label__generate write a short story about a dragon
+__label__generate create a python function to sort an array
+__label__generate draft a report on q3 sales
+__label__generate write a poem about autumn
+__label__generate code a simple web server in nodejs
+__label__generate program a calculator in java
+__label__generate write a thank you note
+__label__generate draft a response to this email
+__label__generate compose a tweet about ai
+__label__generate create a business plan outline
+__label__generate write a letter of recommendation
+__label__generate draft a press release
+__label__generate write a script for a youtube video
+__label__generate compose a cover letter
+__label__generate write a recipe for chocolate chip cookies
+__label__generate draft a project proposal
+__label__generate code a basic html page
+__label__analyze compare python and java
+__label__analyze analyze this text for sentiment
+__label__analyze summarize the main points of this article
+__label__analyze what are the pros and cons of electric cars
+__label__analyze compare Windows and macOS
+__label__analyze analyze the financial data for trends
+__label__analyze summarize this book chapter
+__label__analyze evaluate the performance of the algorithm
+__label__analyze compare these two laptops
+__label__analyze analyze the plot of the movie
+__label__analyze what are the differences between react and angular
+__label__analyze summarize the latest news
+__label__analyze analyze the impact of climate change
+__label__analyze compare agile and waterfall methodologies
+__label__analyze evaluate the marketing strategy
+__label__analyze summarize the meeting notes
+__label__analyze analyze the customer feedback
+__label__analyze compare sql and nosql databases
+__label__analyze summarize the historical event
+__label__analyze analyze the scientific paper
+__label__search search for ai tutorials
+__label__search look up the weather in london
+__label__search find information about pandas
+__label__search search the web for python documentation
+__label__search look into the history of rome
+__label__search find recipes for dinner
+__label__search search for the nearest coffee shop
+__label__search look up the stock price of apple
+__label__search find flights to paris
+__label__search search for hotels in new york
+__label__search look into the benefits of meditation
+__label__search find reviews for the new iphone
+__label__search search for local news
+__label__search look up the definition of serendipity
+__label__search find synonyms for happy
+__label__search search for movies playing nearby
+__label__search look into the causes of inflation
+__label__search find tutorials on machine learning
+__label__search search for best practices in web development
+__label__search look up the population of tokyo
+__label__task add task finish report
+__label__task new task buy groceries
+__label__task remind me to call mom
+__label__task add a task to clean the house
+__label__task create a new task for tomorrow
+__label__task list tasks
+__label__task show my tasks
+__label__task what are my tasks
+__label__task complete task 1
+__label__task finish task 5
+__label__task delete task 3
+__label__task remove task 2
+__label__task what was i doing
+__label__task last task
+__label__task add task pay bills
+__label__task new task walk the dog
+__label__task list all tasks
+__label__task show pending tasks
+__label__task mark task 4 as done
+__label__task drop task 1
+__label__focus enter focus mode
+__label__focus start focus session
+__label__focus enable focus mode
+__label__focus focus for 30 minutes
+__label__focus exit focus mode
+__label__focus disable focus mode
+__label__focus stop focus mode
+__label__focus clear focus mode
+__label__focus set focus mode active
+__label__focus put me in focus mode
+__label__focus turn on focus mode
+__label__focus focus for 1 hour
+__label__focus focus for a bit
+__label__focus end focus mode
+__label__focus cancel focus mode
+__label__focus prepare my study environment
+__label__focus organize my workspace
+__label__focus get ready to work
+__label__focus block distractions
+__label__focus let's concentrate
+__label__health health check
+__label__health system status
+__label__health check system health
+__label__health how are you doing
+__label__health what is the system status
+__label__health check diagnostics
+__label__health system health
+__label__health show health check
+__label__health run health check
+__label__health give me a status update
+__label__health check system performance
+__label__health how is the system
+__label__health system check
+__label__health diagnostic check
+__label__health show diagnostics
+__label__health print health check
+__label__health status check
+__label__health check resources
+__label__health check uptime
+__label__health show system uptime
+__label__analytics show analytics
+__label__analytics productivity report
+__label__analytics performance stats
+__label__analytics view analytics
+__label__analytics give me a productivity report
+__label__analytics display performance stats
+__label__analytics show my stats
+__label__analytics report productivity
+__label__analytics analytics report
+__label__analytics check analytics
+__label__analytics give me my stats
+__label__analytics show performance
+__label__analytics view productivity
+__label__analytics what are my stats
+__label__analytics show me my analytics
+__label__analytics display productivity
+__label__analytics check performance stats
+__label__analytics yield analytics
+__label__analytics load analytics
+__label__analytics bring up analytics
+
+__label__explain i need help with python
+__label__explain help me understand this concept
+__label__explain can you explain what this means
+__label__explain how do i do this in java
+__label__explain what does this error mean
+__label__explain teach me how to program
+__label__explain help me out with this
+__label__explain i have a question about coding
+__label__explain i am stuck on this problem
+__label__explain clarify this for me
+__label__focus prepare my study environment
+__label__focus organize my workspace
+__label__focus i need to concentrate
+__label__focus block everything i am working
+__label__focus time to study
+__label__focus clear all distractions
+__label__focus activate zen mode
+__label__focus starting a deep work session
+__label__focus i need a quiet space to work
+__label__timer start a 10 minute countdown
+__label__timer give me a 5 minute warning
+__label__timer remind me in an hour
+__label__timer countdown 30 seconds
+__label__timer let me know when 15 minutes have passed
+__label__timer set an alarm for 20 minutes
+__label__timer alert me in 5 minutes
